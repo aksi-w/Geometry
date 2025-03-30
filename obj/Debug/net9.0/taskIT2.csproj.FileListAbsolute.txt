@@ -58,6 +58,7 @@ C:\Users\Polina\Documents\taskIT2\obj\Debug\net9.0\taskIT2.GeneratedMSBuildEdito
 C:\Users\Polina\Documents\taskIT2\obj\Debug\net9.0\taskIT2.AssemblyInfoInputs.cache
 C:\Users\Polina\Documents\taskIT2\obj\Debug\net9.0\taskIT2.AssemblyInfo.cs
 C:\Users\Polina\Documents\taskIT2\obj\Debug\net9.0\taskIT2.csproj.CoreCompileInputs.cache
+C:\Users\Polina\Documents\taskIT2\obj\Debug\net9.0\taskIT2.sourcelink.json
 C:\Users\Polina\Documents\taskIT2\obj\Debug\net9.0\Avalonia\taskIT2.dll
 C:\Users\Polina\Documents\taskIT2\obj\Debug\net9.0\Avalonia\taskIT2.pdb
 C:\Users\Polina\Documents\taskIT2\obj\Debug\net9.0\refint\Avalonia\taskIT2.dll

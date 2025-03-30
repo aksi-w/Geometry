@@ -6,7 +6,7 @@ namespace taskIT2
 
         public override double GetArea() => 0;
 
-        public override (double xMin, double xMax, double yMin, double yMax) GetBoundingRectangle() =>
-            (CenterX, CenterX, CenterY, CenterY);
+        public override (double xMin, double xMax, double yMin, double yMax) GetBoundingRectangle()
+            => (CenterX, CenterX, CenterY, CenterY); 
     }
 }
